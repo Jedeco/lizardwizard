@@ -26,7 +26,7 @@ import { StateService } from '../../../@core/data/state.service';
                    responsive
                    [end]="sidebar.id === 'end'">
         <nb-sidebar-header *ngIf="currentTheme !== 'corporate'">
-          <a href="https://github.com/Jedeco" class="btn btn-hero-success main-btn">
+          <a href="https://github.com/Jedeco/lizardwizard" class="btn btn-hero-success main-btn">
             <i class="ion ion-social-github"></i> <span> Github </span>
           </a>
         </nb-sidebar-header>
